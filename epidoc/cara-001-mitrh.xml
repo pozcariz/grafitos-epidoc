@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Grafito con mención a Mitrh- sobre terra sigillata hispánica (Cara, Santacara, Navarra)</title>
+        <editor xml:id="POG">Pablo Ozcáriz Gil</editor>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Pablo Ozcáriz Gil</authority>
+        <idno type="filename">cara-001-mitrh</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons
+            Atribución 4.0 Internacional (CC BY 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>España</country>
+            <region>Navarra</region>
+            <settlement>Pamplona</settlement>
+            <repository>Museo de Navarra</repository>
+            <idno type="invNo">6461</idno>
+            <altIdentifier>
+              <idno type="sigla">SC. 81 – A – 2 PIC</idno>
+              <note>Sigla pintada en el pie. La ficha de catalogación del Museo la recoge como «SC81 A-2I MITRHI».</note>
+            </altIdentifier>
+          </msIdentifier>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <p>Fragmento de la base y del cuerpo de un vaso de <material>terra sigillata hispánica</material>,
+                    <objectType>forma Hisp. 8</objectType>. Barniz de gran calidad, bien conservado.</p>
+                  <dimensions unit="cm">
+                    <height>5.5</height>
+                    <width>7</width>
+                    <depth>0.4</depth>
+                  </dimensions>
+                </support>
+                <condition>
+                  <p>Fragmentado; la inscripción se interrumpe en la línea de rotura.</p>
+                </condition>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1" writtenLines="1">
+                  <p>Una línea incisa en la pared exterior. Parte conservada de la inscripción: 4,6 cm de largo.</p>
+                </layout>
+              </layoutDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote>Letra capital de trazos rectos, profundos y ductus firme. La M mide 1,1 cm de alto y 1,8 cm de ancho.
+                La R se insertó en un segundo momento en el espacio entre la T y la H: su trazo diagonal inferior se superpone al
+                trazo vertical izquierdo de la H. En la rotura, arranque de tres trazos verticales (probablemente E) y de otra letra
+                fragmentada con un trazo vertical y un ligero desconchón curvo en la parte superior, compatible con una T.</handNote>
+            </handDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace>
+                <placeName type="ancient">Cara</placeName> (<placeName type="modern">Santacara</placeName>, Navarra),
+                <placeName type="province">Hispania citerior</placeName>
+              </origPlace>
+              <origDate notBefore-custom="0001" notAfter-custom="0200" datingMethod="#julian">s. I-II d.C.</origDate>
+            </origin>
+            <provenance type="found">
+              <p>Excavaciones de M.A. Mezquíriz en Santacara (1974-1982), sector A, en el entorno del gran edificio de sillares
+                almohadillados de época republicana, en un contexto público relacionado con el culto. La sigla SC81 apunta a la
+                campaña de 1981.</p>
+            </provenance>
+            <provenance type="observed">
+              <p>Expuesto en la exposición permanente del Museo de Navarra (Pamplona).</p>
+            </provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>Codificado según las EpiDoc Guidelines.</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latín</language>
+        <language ident="es">Español</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>grafito sobre cerámica</term>
+          <term>instrumentum domesticum</term>
+          <term>Mitra</term>
+          <term>antropónimo teofórico</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-11-12" who="#POG">Licencia CC BY 4.0.</change>
+      <change when="2026-11-12" who="#POG">Creación de la ficha a partir de Ozcáriz Gil 2022.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="edition" xml:lang="la" xml:space="preserve">
+        <ab>
+          <lb n="1"/><app type="alternative">
+            <lem source="#Ozcariz2022"><expan><abbr>Mit<add place="inline">r</add>h</abbr><ex>a</ex><abbr><unclear>e</unclear></abbr></expan><gap reason="lost" extent="unknown" unit="character"/></lem>
+            <rdg source="#Ozcariz2022">Mit<add place="inline">r</add>h<unclear>e</unclear><unclear>i</unclear><gap reason="lost" extent="unknown" unit="character"/></rdg>
+            <rdg source="#Ozcariz2022">Mit<add place="inline">r</add>h<unclear>e</unclear><unclear>t</unclear><supplied reason="lost">i</supplied><gap reason="lost" extent="unknown" unit="character"/></rdg>
+          </app>
+        </ab>
+      </div>
+
+      <div type="apparatus">
+        <listApp>
+          <app loc="1">
+            <note>Tres lecturas posibles: Mitrh(a)ẹ[- - -], Mitrhẹị[- - -] o Mitrhẹṭ[i- - -]. Se descarta Mitrhị[dates], porque
+              el pequeño trazo vertical tras la I parece incompatible con una D. Mitrh- por Mithr-: inversión de H y R, bien
+              documentada en el nombre del dios y en otras palabras con el grupo thr.</note>
+          </app>
+        </listApp>
+      </div>
+
+      <div type="translation" xml:lang="es">
+        <p>Lectura 1: «A Mitra» o «de Mitra» (dativo o genitivo).</p>
+        <p>Lecturas 2 y 3: nombre propio teofórico, Mitrhei / Mitrheti (= Mithres, Mithretis), probablemente el del dueño de la pieza.</p>
+      </div>
+
+      <div type="commentary">
+        <p>La raíz Mitrh- remite al dios de origen iranio. Se proponen dos interpretaciones:</p>
+        <p>1) Dedicatoria u ofrenda al dios (Mitrh(a)e), con paralelos en grafitos sobre cerámica de los entornos de mitreos de
+          Forum Claudii Vallensium (Martigny) e Iuliomagus (Angers). Implicaría la práctica del culto en Cara, hasta ahora sin
+          testimonio sólido en territorio vascón.</p>
+        <p>2) Antropónimo teofórico (Mithres, en dativo o genitivo Mithreti), documentado sobre todo en Roma e Italia y asociado
+          con frecuencia a libertos y a personas de origen oriental. Sería el primer testimonio de este nombre en Hispania.
+          El autor considera más probable esta segunda opción.</p>
+      </div>
+
+      <div type="bibliography">
+        <listBibl>
+          <bibl xml:id="Ozcariz2022" type="edition">
+            <author>P. Ozcáriz Gil</author>,
+            <title level="a">¿Divino o humano? Un grafito con mención a Mitrh- en la ciudad romana de Cara (Santacara, Navarra, Hispania citerior)</title>,
+            <title level="j">Sylloge Epigraphica Barcinonensis</title> <biblScope unit="volume">20</biblScope>
+            (<date>2022</date>), <biblScope unit="page">207-219</biblScope>.
+          </bibl>
+        </listBibl>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Grafito de palma sobre cerámica barnizada (Pompelo, Plaza del Castillo, Pamplona, Navarra)</title>
+        <editor xml:id="POG">Pablo Ozcáriz Gil</editor>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Pablo Ozcáriz Gil</authority>
+        <idno type="filename">pompelo-011-palma</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons
+            Atribución 4.0 Internacional (CC BY 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>España</country>
+            <region>Navarra</region>
+            <repository>Almacén de Arqueología del Gobierno de Navarra</repository>
+          </msIdentifier>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <p>Fragmento de un vaso carenado de pared superior vertical y panza globular; el grafito se encuentra debajo de la carena. Pasta de color naranja y barniz homogéneo del mismo tono.</p>
+                </support>
+              </supportDesc>
+              <layoutDesc>
+                <layout>
+                  <p>Localización del grafito: Pared exterior de la pieza.</p>
+                </layout>
+              </layoutDesc>
+            </objectDesc>
+            <decoDesc>
+              <decoNote>Fragmento de la parte superior de un grafito de palma.</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace>
+                <placeName type="ancient">Pompelo</placeName> (<placeName type="modern">Pamplona</placeName>, Navarra),
+                <placeName type="province">Hispania citerior</placeName>
+              </origPlace>
+              <origDate notBefore-custom="0101" notAfter-custom="0300" datingMethod="#julian">s. II-III d.C.</origDate>
+            </origin>
+            <provenance type="found">
+              <p>Excavación de la Plaza del Castillo de Pamplona (2001-2003), sector 1. Según el contexto general de la
+                excavación, las piezas aparecieron en un barrio artesanal. Los estratos están revueltos y no hay estratigrafía
+                válida para fechar las piezas: la datación se basa en las formas cerámicas.</p>
+            </provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>Codificado según las EpiDoc Guidelines. Grafito no epigráfico (dibujo o signo): en el campo de edición se describe
+        el motivo.</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="es">Español</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>grafito sobre cerámica</term>
+          <term>instrumentum domesticum</term>
+          <term>palma</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-11-12" who="#POG">Creación de la ficha a partir de Ozcáriz Gil y Unzu 2011 (nº 11).</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic url="imagenes/pompelo/pompelo-011-palma-1.jpg">
+        <desc>Fotografía del grafito nº 11 (foto 13 del artículo de Ozcáriz Gil y Unzu 2011).</desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:space="preserve">
+        <ab>
+          <figure>
+            <figDesc>Palma (parte superior)</figDesc>
+          </figure>
+        </ab>
+
+      </div>
+
+      <div type="bibliography">
+        <listBibl>
+          <bibl xml:id="OzcarizUnzu2011" type="edition">
+            <author>P. Ozcáriz Gil; M. Unzu</author>,
+            <title level="a">Grafitos figurativos, palmas, tridentes y otros signos en cerámica romana de la Plaza del Castillo de Pamplona</title>,
+            <title level="j">Príncipe de Viana</title> <biblScope unit="volume">253</biblScope>
+            (<date>2011</date>), <biblScope unit="page">79-95</biblScope>, nº 11.
+          </bibl>
+        </listBibl>
+      </div>
+    </body>
+  </text>
+</TEI>
