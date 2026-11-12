@@ -66,8 +66,8 @@ Edición digital en [EpiDoc](https://epidoc.stoa.org/) de los grafitos publicado
 | [pompelo-014-palma](epidoc/pompelo-014-palma.xml) | Palma (fragmento) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 14 |
 | [pompelo-015-palma](epidoc/pompelo-015-palma.xml) | Palma (fragmento) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 15 |
 | [pompelo-016-palma](epidoc/pompelo-016-palma.xml) | Palma (fragmento) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 16 |
-| [pompelo-017-palma](epidoc/pompelo-017-palma.xml) | Palma (fragmento) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 17 |
-| [pompelo-018-tridente](epidoc/pompelo-018-tridente.xml) | Tridente (casi completo) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 18 |
+| [pompelo-017-palma](epidoc/pompelo-017-palma.xml) | Palma (fragmento) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 17; Unzu y Ozcáriz Gil, 2009, nº 10 |
+| [pompelo-018-tridente](epidoc/pompelo-018-tridente.xml) | Tridente (casi completo) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 18; Unzu y Ozcáriz Gil, 2009, nº 14 |
 | [pompelo-019-tridente](epidoc/pompelo-019-tridente.xml) | Tridente (completo) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 19 |
 | [pompelo-020-tridente](epidoc/pompelo-020-tridente.xml) | Tridente (fragmento superior) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 20 |
 | [pompelo-021-tridente](epidoc/pompelo-021-tridente.xml) | Tridente (fragmento superior) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 21 |
@@ -77,6 +77,31 @@ Edición digital en [EpiDoc](https://epidoc.stoa.org/) de los grafitos publicado
 | [pompelo-025-koga](epidoc/pompelo-025-koga.xml) | Signo semejante al del alfabeto ibérico ko/go | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 25 |
 | [pompelo-026-espiral](epidoc/pompelo-026-espiral.xml) | Pequeña espiral | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 26 |
 | [pompelo-027-roseta](epidoc/pompelo-027-roseta.xml) | Posible roseta o asterisco rodeado por un círculo (fragmento) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 27 |
+| [pompelo-028-carpi](epidoc/pompelo-028-carpi.xml) | Carpi | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 1 |
+| [pompelo-029-eutiches](epidoc/pompelo-029-eutiches.xml) | Eutyχηs[- - -] | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 2 |
+| [pompelo-030-marci](epidoc/pompelo-030-marci.xml) | Marc[i] | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 3 |
+| [pompelo-031-marti](epidoc/pompelo-031-marti.xml) | Marti(i) | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 4 |
+| [pompelo-032-marti](epidoc/pompelo-032-marti.xml) | Marti(i) | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 5 |
+| [pompelo-033-maxini](epidoc/pompelo-033-maxini.xml) | Maxini o M. Axini | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 6 |
+| [pompelo-034-silvici](epidoc/pompelo-034-silvici.xml) | Silvici | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 7 |
+| [pompelo-035-a](epidoc/pompelo-035-a.xml) | A[- - -] | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 8 |
+| [pompelo-036-dom](epidoc/pompelo-036-dom.xml) | Dom( ) | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 9 |
+| [pompelo-037-eutico](epidoc/pompelo-037-eutico.xml) | Eutico (dudoso) | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 11 |
+| [pompelo-038-flo](epidoc/pompelo-038-flo.xml) | Flo[- - -] | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 12 |
+| [pompelo-039-simppo](epidoc/pompelo-039-simppo.xml) | N[- - -] / [S]imppo[- - -] (dudoso) | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 13 |
+| [pompelo-040-urb](epidoc/pompelo-040-urb.xml) | Urb[- - -] | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 15 |
+| [pompelo-041-ccta](epidoc/pompelo-041-ccta.xml) | [- - -]CCTA[- - -] (dudoso) | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 16 |
+| [pompelo-042-fvr](epidoc/pompelo-042-fvr.xml) | [- - -]fur[- - -] | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 17 |
+| [pompelo-043-inie](epidoc/pompelo-043-inie.xml) | [- - -]INIE[- - -] | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 18 |
+| [pompelo-044-nna](epidoc/pompelo-044-nna.xml) | [P]ạnna Aur[eliae] (dudoso) | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 19 |
+| [pompelo-045-pna](epidoc/pompelo-045-pna.xml) | [- - -]PNAT ET[- - -] (dudoso) | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 20 |
+| [pompelo-046-se](epidoc/pompelo-046-se.xml) | [- - -]SE[X- - -] o [- - -]CE[X- - -] (dudoso) | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 21 |
+| [pompelo-047-isi](epidoc/pompelo-047-isi.xml) | [- - -I]SI · Q[- - -] (dudoso) | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 22 |
+| [pompelo-048-timi](epidoc/pompelo-048-timi.xml) | [- - -]TI[- - -]MI[- - -] / [- - -] (dudoso) | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 23 |
+| [pompelo-049-tus](epidoc/pompelo-049-tus.xml) | [- - -]tus | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 24 |
+| [pompelo-050-var](epidoc/pompelo-050-var.xml) | [- - -]VAR | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 25 |
+| [pompelo-051-vsfv](epidoc/pompelo-051-vsfv.xml) | [- - - a o m]us fu[- - -] | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 26 |
+| [pompelo-052-eti](epidoc/pompelo-052-eti.xml) | [- - -]ETI+[- - -] (posible signario paleohispánico) | Pompelo (Pamplona, Navarra) | Unzu y Ozcáriz Gil, 2009, 499-512, nº 27 |
 
 ## Convenciones
 
