@@ -122,6 +122,15 @@
     <xsl:text>*</xsl:text>
   </xsl:template>
 
+  <xsl:template match="tei:g[@type='swastika']" mode="leiden">
+    <xsl:text>&#x5350;</xsl:text>
+  </xsl:template>
+
+  <!-- Dibujos y signos no alfabéticos: se muestra su descripción -->
+  <xsl:template match="tei:figure" mode="leiden">
+    <span class="motivo"><xsl:value-of select="normalize-space(tei:figDesc)"/></span>
+  </xsl:template>
+
   <xsl:template match="tei:space" mode="leiden">
     <xsl:text> </xsl:text><i>vac.</i><xsl:text> </xsl:text>
   </xsl:template>

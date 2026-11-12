@@ -116,6 +116,10 @@
                 <xsl:with-param name="valor" select="$ms/tei:physDesc/tei:handDesc/tei:handNote"/>
               </xsl:call-template>
               <xsl:call-template name="dato">
+                <xsl:with-param name="etiqueta">Descripción del grafito</xsl:with-param>
+                <xsl:with-param name="valor" select="$ms/tei:physDesc/tei:decoDesc/tei:decoNote"/>
+              </xsl:call-template>
+              <xsl:call-template name="dato">
                 <xsl:with-param name="etiqueta">Datación</xsl:with-param>
                 <xsl:with-param name="valor" select="$ms/tei:history/tei:origin/tei:origDate"/>
               </xsl:call-template>

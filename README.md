@@ -50,6 +50,33 @@ Edición digital en [EpiDoc](https://epidoc.stoa.org/) de los grafitos publicado
 | [cara-030-ve](epidoc/cara-030-ve.xml) | [- - -]VẸ[- - -] o [- - -]VḶ[- - -] | Cara (Santacara, Navarra) | Studia Storica Espinosa, 2018, nº 28 |
 | [cara-031-vis](epidoc/cara-031-vis.xml) | [- - -]ṾIS o [- - -]ṆIS | Cara (Santacara, Navarra) | Studia Storica Espinosa, 2018, nº 29 |
 | [cara-032-ilegible](epidoc/cara-032-ilegible.xml) | Ilegible | Cara (Santacara, Navarra) | Studia Storica Espinosa, 2018, nº 30 |
+| [pompelo-001-arbol](epidoc/pompelo-001-arbol.xml) | Árbol (dibujo fragmentado) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 1 |
+| [pompelo-002-vegetal](epidoc/pompelo-002-vegetal.xml) | Vegetal (dibujo fragmentado) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 2 |
+| [pompelo-003-hedera](epidoc/pompelo-003-hedera.xml) | Hedera | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 3 |
+| [pompelo-004-animal](epidoc/pompelo-004-animal.xml) | Cabeza de animal, posiblemente un équido | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 4 |
+| [pompelo-005-complejo](epidoc/pompelo-005-complejo.xml) | Dibujo complejo de difícil interpretación | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 5 |
+| [pompelo-006-antropomorfo](epidoc/pompelo-006-antropomorfo.xml) | Figura antropomorfa (parte superior de las piernas) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 6 |
+| [pompelo-007-cervido](epidoc/pompelo-007-cervido.xml) | Posible cérvido esquemático | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 7 |
+| [pompelo-008-palma](epidoc/pompelo-008-palma.xml) | Palma (fragmento) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 8 |
+| [pompelo-009-palma](epidoc/pompelo-009-palma.xml) | Palma (fragmento) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 9 |
+| [pompelo-010-palma](epidoc/pompelo-010-palma.xml) | Palma (fragmento) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 10 |
+| [pompelo-011-palma](epidoc/pompelo-011-palma.xml) | Palma (parte superior) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 11 |
+| [pompelo-012-palma](epidoc/pompelo-012-palma.xml) | Palma (fragmento) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 12 |
+| [pompelo-013-palma](epidoc/pompelo-013-palma.xml) | Palma (fragmento) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 13 |
+| [pompelo-014-palma](epidoc/pompelo-014-palma.xml) | Palma (fragmento) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 14 |
+| [pompelo-015-palma](epidoc/pompelo-015-palma.xml) | Palma (fragmento) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 15 |
+| [pompelo-016-palma](epidoc/pompelo-016-palma.xml) | Palma (fragmento) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 16 |
+| [pompelo-017-palma](epidoc/pompelo-017-palma.xml) | Palma (fragmento) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 17 |
+| [pompelo-018-tridente](epidoc/pompelo-018-tridente.xml) | Tridente (casi completo) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 18 |
+| [pompelo-019-tridente](epidoc/pompelo-019-tridente.xml) | Tridente (completo) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 19 |
+| [pompelo-020-tridente](epidoc/pompelo-020-tridente.xml) | Tridente (fragmento superior) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 20 |
+| [pompelo-021-tridente](epidoc/pompelo-021-tridente.xml) | Tridente (fragmento superior) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 21 |
+| [pompelo-022-tridente](epidoc/pompelo-022-tridente.xml) | Tridente (fragmento superior) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 22 |
+| [pompelo-023-tridente](epidoc/pompelo-023-tridente.xml) | Tridente (fragmento) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 23 |
+| [pompelo-024-esvastica](epidoc/pompelo-024-esvastica.xml) | Cruz gamada | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 24 |
+| [pompelo-025-koga](epidoc/pompelo-025-koga.xml) | Signo semejante al del alfabeto ibérico ko/go | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 25 |
+| [pompelo-026-espiral](epidoc/pompelo-026-espiral.xml) | Pequeña espiral | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 26 |
+| [pompelo-027-roseta](epidoc/pompelo-027-roseta.xml) | Posible roseta o asterisco rodeado por un círculo (fragmento) | Pompelo (Pamplona, Navarra) | *Príncipe de Viana* 253, 2011, 79-95, nº 27 |
 
 ## Convenciones
 
