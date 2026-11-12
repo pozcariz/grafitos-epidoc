@@ -24,4 +24,12 @@ Edición digital en [EpiDoc](https://epidoc.stoa.org/) de los grafitos publicado
 
 ## Licencia
 
-Pendiente de definir.
+Las fichas EpiDoc y el catálogo se publican con licencia
+[Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es):
+pueden reutilizarse y adaptarse libremente citando la fuente.
+
+**Cómo citar:** Ozcáriz Gil, P., *Grafitos sobre cerámica romana: corpus EpiDoc*,
+https://github.com/pozcariz/grafitos-epidoc
+
+Los artículos originales mantienen sus propias condiciones editoriales. Las fotografías de las piezas
+pertenecen a sus respectivas instituciones y no se incluyen en esta licencia.

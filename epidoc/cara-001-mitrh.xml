@@ -12,8 +12,8 @@
         <authority>Pablo Ozcáriz Gil</authority>
         <idno type="filename">cara-001-mitrh</idno>
         <availability>
-          <!-- PENDIENTE: elegir licencia (p. ej. CC BY 4.0) -->
-          <p>Licencia pendiente de definir.</p>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons
+            Atribución 4.0 Internacional (CC BY 4.0)</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -96,6 +96,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
+      <change when="2026-11-12" who="#POG">Licencia CC BY 4.0.</change>
       <change when="2026-11-12" who="#POG">Creación de la ficha a partir de Ozcáriz Gil 2022.</change>
     </revisionDesc>
   </teiHeader>
