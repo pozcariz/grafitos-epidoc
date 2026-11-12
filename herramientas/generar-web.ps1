@@ -43,4 +43,9 @@ foreach ($f in Get-ChildItem (Join-Path $raiz 'epidoc') -Filter *.xml) {
 
 Transformar $tIndice $corpus (Join-Path $docs 'index.html')
 Copy-Item (Join-Path $herr 'estilo.css') (Join-Path $docs 'estilo.css') -Force
+# Copia las fotos (carpeta imagenes/) a la web
+if (Test-Path (Join-Path $raiz 'imagenes')) {
+    New-Item -ItemType Directory -Force (Join-Path $docs 'imagenes') | Out-Null
+    Copy-Item (Join-Path $raiz 'imagenes\*') (Join-Path $docs 'imagenes') -Force
+}
 Write-Host 'Portada generada: docs/index.html'

@@ -36,6 +36,13 @@
             <xsl:value-of select="normalize-space($ms/tei:history/tei:origin/tei:origDate)"/>
           </p>
 
+          <xsl:for-each select="/tei:TEI/tei:facsimile//tei:graphic">
+            <figure class="foto">
+              <img src="{@url}" alt="{normalize-space(tei:desc)}"/>
+              <figcaption><xsl:value-of select="normalize-space(tei:desc)"/> Foto: Pablo Ozcáriz Gil.</figcaption>
+            </figure>
+          </xsl:for-each>
+
           <section>
             <h2>Texto</h2>
             <div class="edicion" lang="la">

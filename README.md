@@ -38,4 +38,5 @@ pueden reutilizarse y adaptarse libremente citando la fuente.
 https://github.com/pozcariz/grafitos-epidoc
 
 Los artículos originales mantienen sus propias condiciones editoriales. Las fotografías de las piezas
-pertenecen a sus respectivas instituciones y no se incluyen en esta licencia.
+de la carpeta `imagenes/` son obra de Pablo Ozcáriz Gil. Las fotografías de otras procedencias pertenecen
+a sus respectivas instituciones y no se incluyen en esta licencia.
