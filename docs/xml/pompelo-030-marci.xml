@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Grafito nominal «Marc[i]» (Pompelo, Plaza del Castillo, Pamplona, Navarra)</title>
+        <editor xml:id="POG">Pablo Ozcáriz Gil</editor>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Pablo Ozcáriz Gil</authority>
+        <idno type="filename">pompelo-030-marci</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons
+            Atribución 4.0 Internacional (CC BY 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>España</country>
+            <region>Navarra</region>
+            <repository>Almacén de Arqueología del Gobierno de Navarra</repository>
+          </msIdentifier>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <p>Fragmento de fondo de 10 cm de Ø, de cerámica común barnizada. Estos recipientes sin barniz al interior responden generalmente a jarras de panza globular y borde moldurado con dos asas. La pasta es de color naranja con restos de barniz.</p>
+                </support>
+              </supportDesc>
+              <layoutDesc>
+                <layout>
+                  <p>Localización del grafito: Base.</p>
+                </layout>
+              </layoutDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace>
+                <placeName type="ancient">Pompelo</placeName> (<placeName type="modern">Pamplona</placeName>, Navarra),
+                <placeName type="province">Hispania citerior</placeName>
+              </origPlace>
+              <origDate notBefore-custom="0201" notAfter-custom="0400" datingMethod="#julian">s. III-IV d.C.</origDate>
+            </origin>
+            <provenance type="found">
+              <p>Excavación de la Plaza del Castillo de Pamplona (Gabinete Arqueológico Trama, 2001-2003), sector 3. Los estratos
+                están revueltos (abundan las tumbas musulmanas del sector 3): la datación se basa en las formas cerámicas y el
+                contexto es el de un barrio artesano.</p>
+            </provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>Codificado según las EpiDoc Guidelines. Grafito post cocturam.</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latín</language>
+        <language ident="es">Español</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>grafito sobre cerámica</term>
+          <term>instrumentum domesticum</term>
+          <term>grafito nominal</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-11-12" who="#POG">Creación de la ficha a partir de Unzu y Ozcáriz Gil 2009 (nº 3).</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic url="imagenes/pompelo/pompelo-030-marci-1.jpg">
+        <desc>Fotografía del grafito nº 3 (foto 03 del artículo de Unzu y Ozcáriz Gil 2009).</desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="la" xml:space="preserve">
+        <ab>
+          <lb n="1"/><hi rend="ligature">Mar</hi>c<supplied reason="lost">i</supplied>
+        </ab>
+      </div>
+
+      <div type="commentary">
+        <p>Inscripción con ligatura MAR. La siguiente letra, situada un poco más elevada que las letras precedentes, parece ser una C, ya que de ser una O aparecería más lejos de la caja de escritura. La lectura más lógica sería Marci. Menos probable parecería su versión en nominativo, Marcus. En este caso Marcus podría tratarse de un praenomen, o de un cognomen, ya que existen numerosos testimonios de este segundo caso. Hasta ahora se conocen en territorio navarro dos personajes con el praenomen Marcus, en Gastiáin y en Urbiola.</p>
+      </div>
+
+      <div type="bibliography">
+        <listBibl>
+          <bibl xml:id="UnzuOzcariz2009" type="edition">
+            <author>M. Unzu; P. Ozcáriz Gil</author>,
+            <title level="a">Grafitos nominales de la Plaza del Castillo de Pamplona</title>, en F.J. Andreu (coord.),
+            <title level="m">Los vascones de las fuentes antiguas: en torno a una etnia de la antigüedad peninsular</title>
+            (Barcelona, <date>2009</date>), <biblScope unit="page">499-512</biblScope>, nº 3.
+          </bibl>
+        </listBibl>
+      </div>
+    </body>
+  </text>
+</TEI>
