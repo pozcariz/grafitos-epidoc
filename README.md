@@ -19,6 +19,8 @@ Edición digital en [EpiDoc](https://epidoc.stoa.org/) de los grafitos publicado
 | ID | Lectura | Procedencia | Publicación |
 |---|---|---|---|
 | [cara-001-mitrh](epidoc/cara-001-mitrh.xml) | Mitrh(a)ẹ[- - -] / Mitrhẹị[- - -] / Mitrhẹṭ[i- - -] | Cara (Santacara, Navarra) | *SEBarc* 20, 2022, 207-219 |
+| [cara-002-euteri](epidoc/cara-002-euteri.xml) | [EL]EVTERI vel [D]EVTERI | Cara (Santacara, Navarra) | Ex Baetica Romam, 2020, nº 7; Studia Storica Espinosa, 2018, nº 5 |
+| [cara-003-lyaeus](epidoc/cara-003-lyaeus.xml) | YL vel LY | Cara (Santacara, Navarra) | Ex Baetica Romam, 2020, nº 8 |
 
 ## Convenciones
 

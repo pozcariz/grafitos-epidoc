@@ -104,3 +104,5 @@ section p { margin: 0 0 0.8rem; }
   font-size: 0.9rem;
   color: var(--suave);
 }
+
+figure.foto{margin:1rem 0;text-align:center}figure.foto img{max-width:100%;max-height:28rem;height:auto;border-radius:4px}figure.foto figcaption{font-size:.85rem;color:#555;margin-top:.4rem}
