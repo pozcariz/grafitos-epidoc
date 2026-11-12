@@ -3,12 +3,16 @@
 Edición digital en [EpiDoc](https://epidoc.stoa.org/) de los grafitos publicados por Pablo Ozcáriz Gil
 (Universidad Rey Juan Carlos).
 
+**Consulta el corpus en la web:** https://pozcariz.github.io/grafitos-epidoc/
+
 ## Contenido
 
 | Archivo / carpeta | Qué contiene |
 |---|---|
 | `epidoc/` | Una ficha EpiDoc (XML) por grafito |
 | `catalogo.csv` | Índice de todos los grafitos (se abre con Excel) |
+| `docs/` | La web del corpus, generada automáticamente a partir de las fichas |
+| `herramientas/` | Plantillas y script (`generar-web.ps1`) que crean la web |
 
 ## Grafitos incluidos
 
