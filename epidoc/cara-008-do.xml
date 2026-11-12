@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Grafito con la lectura «DỌ[- - -]» sobre cerámica (Cara, Santacara, Navarra)</title>
+        <editor xml:id="POG">Pablo Ozcáriz Gil</editor>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Pablo Ozcáriz Gil</authority>
+        <idno type="filename">cara-008-do</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons
+            Atribución 4.0 Internacional (CC BY 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>España</country>
+            <region>Navarra</region>
+            <repository>Almacén de Arqueología del Gobierno de Navarra</repository>
+            <altIdentifier>
+              <idno type="sigla">Santacara 82. TD 2. Est. I.</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <p>Fragmento de <material>terra sigillata</material>.</p>
+                </support>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1" writtenLines="1">
+                  <p>Localización en la pieza: Junto al pie.</p>
+                </layout>
+              </layoutDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace>
+                <placeName type="ancient">Cara</placeName> (<placeName type="modern">Santacara</placeName>, Navarra),
+                <placeName type="province">Hispania citerior</placeName>
+              </origPlace>
+            </origin>
+            <provenance type="found">
+              <p>Excavaciones de M.A. Mezquíriz en Santacara, campaña de 1982. Referencia de caja: Santacara 82. TD 2. Est. I.</p>
+            </provenance>
+            <provenance type="observed">
+              <p>Almacén de Arqueología del Gobierno de Navarra (referencia interna del proyecto: 070.1).</p>
+            </provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>Codificado según las EpiDoc Guidelines.</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latín</language>
+        <language ident="es">Español</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>grafito sobre cerámica</term>
+          <term>instrumentum domesticum</term>
+          <term>terra sigillata</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-11-12" who="#POG">Creación de la ficha a partir de Ozcáriz Gil 2018 (nº 6).</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic url="imagenes/cara-008-do-1.jpg">
+        <desc>Dibujo del grafito nº 6 (Ozcáriz Gil 2018).</desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic url="imagenes/cara-008-do-2.jpg">
+        <desc>Fotografía del grafito nº 6 (Ozcáriz Gil 2018).</desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="edition" xml:lang="la" xml:space="preserve">
+        <ab>
+          <lb n="1"/>D<unclear>O</unclear><gap reason="lost" extent="unknown" unit="character"/>
+        </ab>
+      </div>
+
+      <div type="commentary">
+        <p>Por el trazo es más probable que se trate de una D.</p>
+      </div>
+
+      <div type="bibliography">
+        <listBibl>
+          <bibl xml:id="Ozcariz2018" type="edition">
+            <author>P. Ozcáriz Gil</author>,
+            <title level="a">«Excavando» en lo ya excavado: grafitos epigráficos de la campaña de 1982 de la ciudad romana de Cara (Santacara, Navarra)</title>,
+            <title level="m">Studia Storica in honorem Prof. Urbano Espinosa Ruiz</title>
+            (Logroño, <date>2018</date>), <biblScope unit="page">109-131</biblScope>, nº 6.
+          </bibl>
+        </listBibl>
+      </div>
+    </body>
+  </text>
+</TEI>

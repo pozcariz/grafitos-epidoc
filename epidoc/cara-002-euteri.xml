@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Grafito con el nombre [El]euteri o [D]euteri sobre ánfora o urceus (Cara, Santacara, Navarra)</title>
+        <title>Grafito con el nombre [El]euteri o [D]euteri sobre ánfora (Cara, Santacara, Navarra)</title>
         <editor xml:id="POG">Pablo Ozcáriz Gil</editor>
       </titleStmt>
       <publicationStmt>
@@ -31,9 +31,9 @@
             <objectDesc>
               <supportDesc>
                 <support>
-                  <p>Fragmento de boca de <objectType>ánfora o urceus</objectType> de pasta clara, de la misma tipología que
-                    los tituli picti nº 4 y 6 del artículo de 2020. Recuerda a una Dressel 2-4, pero la pasta no corresponde a
-                    las producciones layetanas.</p>
+                  <p>Fragmento de boca de <objectType>ánfora</objectType> de pasta clara, de la misma tipología que
+                    los tituli picti nº 4 y 6 del artículo de 2020. Recuerda a una Dressel 2-4 (en el artículo de 2018, «probablemente
+                    una Dressel 2-4»), pero la pasta no corresponde a las producciones layetanas.</p>
                   <p>Diámetro de la pieza: 24,6 cm.</p>
                 </support>
               </supportDesc>
@@ -55,7 +55,8 @@
               <p>Excavaciones de M.A. Mezquíriz en Santacara, campaña de 1982 (Td. 3, estrato I, 6 de diciembre de 1982).</p>
             </provenance>
             <provenance type="observed">
-              <p>Almacén de Arqueología del Gobierno de Navarra, caja 2219.</p>
+              <p>Almacén de Arqueología del Gobierno de Navarra, caja 2219 (referencia de caja en 2018: «Santacara 82. Td. 3.
+                Est. I. 6-XII-82»; referencia interna del proyecto: 106.1).</p>
             </provenance>
           </history>
         </msDesc>
@@ -85,7 +86,17 @@
   <facsimile>
     <surface>
       <graphic url="imagenes/cara-002-euteri.jpg">
-        <desc>Fragmento de boca de ánfora o urceus con el grafito [El]euteri / [D]euteri (Ozcáriz Gil 2020, fig. 7).</desc>
+        <desc>Fragmento de boca de ánfora con el grafito [El]euteri / [D]euteri (Ozcáriz Gil 2020, fig. 7).</desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic url="imagenes/cara-002-euteri-2018-1.jpg">
+        <desc>Dibujo del grafito nº 5 (Ozcáriz Gil 2018).</desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic url="imagenes/cara-002-euteri-2018-2.jpg">
+        <desc>Fotografía del grafito nº 5 (Ozcáriz Gil 2018).</desc>
       </graphic>
     </surface>
   </facsimile>
@@ -110,7 +121,8 @@
       </div>
 
       <div type="commentary">
-        <p>Grafito sobre el hombro de un ánfora o urceus de pasta clara, junto al asa, realizado después de la cocción.
+        <p>Grafito sobre el hombro de un ánfora de pasta clara, junto al asa, realizado después de la cocción.
+          Es el único grafito epigráfico sobre ánfora de los publicados de la campaña de 1982.
           Las dos opciones de reconstrucción del nombre cuentan con paralelos en Hispania, pero ninguna se había
           documentado antes en Navarra.</p>
       </div>
