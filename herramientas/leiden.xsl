@@ -117,6 +117,11 @@
     </xsl:if>
   </xsl:template>
 
+  <!-- Signos no alfabéticos: asterisco -->
+  <xsl:template match="tei:g[@type='asterisk']" mode="leiden">
+    <xsl:text>*</xsl:text>
+  </xsl:template>
+
   <xsl:template match="tei:space" mode="leiden">
     <xsl:text> </xsl:text><i>vac.</i><xsl:text> </xsl:text>
   </xsl:template>
